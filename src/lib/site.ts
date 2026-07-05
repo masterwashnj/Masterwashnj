@@ -14,7 +14,7 @@ export const SITE = {
   name: "Master Wash NJ",
   // URL pública del sitio. pendiente: cambiar al dominio final del cliente cuando se compre.
   // Por ahora el subdominio de Netlify o lo que defina el deploy.
-  url: "https://masterwashnj.netlify.app",
+  url: "https://masterwashnj.com",
   // REAL (de su Instagram): detallado MÓVIL — van a la casa del cliente en NJ.
   tagline: "Detallado Móvil Premium",
   signature: "Acabado impecable, hasta tu puerta",
