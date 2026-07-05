@@ -25,9 +25,9 @@ git push
 
 | Pieza | Dónde | Dueño / acceso |
 |---|---|---|
-| Código | github.com/masterwashnj/Masterwashnj | Cliente (dueño) · `luisda7` colaborador |
+| Código | github.com/masterwashnj/Masterwashnj | Master Wash NJ (dueño) + colaborador autorizado |
 | Hosting | Netlify del cliente (auto-deploy desde GitHub) | Cliente (no requiere acceso para publicar) |
-| Dominio + DNS | Cloudflare del cliente (`masterwashnj.com`) | Cliente (dueño) · luisda7.lz11@gmail.com miembro |
+| Dominio + DNS | Cloudflare del cliente (`masterwashnj.com`) | Master Wash NJ (dueño) + miembro autorizado |
 | Formulario | Netlify Forms (`contacto-masterwash`) | Se ve en el panel Netlify del cliente → Forms |
 
 DNS configurado: `A @ → 75.2.60.5` y `CNAME www → masterwashnj1.netlify.app`

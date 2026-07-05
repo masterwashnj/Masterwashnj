@@ -1,6 +1,6 @@
 /**
  * i18n ligero (sin dependencias) — ES / EN.
- * El sitio es bilingüe: el negocio atiende NJ (inglés) y base hispana (Luis).
+ * El sitio es bilingüe: el negocio atiende NJ (inglés) y clientela hispana.
  * `L` = string localizado { es, en }. `pick(L, lang)` devuelve el idioma activo.
  */
 export type Lang = "es" | "en";

@@ -1,4 +1,4 @@
-# Deploy de Master Wash NJ en Netlify (cuenta ZETA).
+# Deploy de Master Wash NJ en Netlify.
 # El plugin oficial de Next.js maneja SSR/ISR, imágenes y headers.
 [build]
   command = "npm run build"
